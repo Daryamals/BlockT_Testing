@@ -11,10 +11,10 @@
 **Задача Т1. Написание тест-кейсов**
 
 **Требования:**
-1. Написать план для тестирования REST API GET '/products/{productId}/status?authToken=&recalculate=&owner=&region=' .
-   Описывается в 'test_plan.md'
+1. Написать план для тестирования REST API GET `/products/{productId}/status?authToken=&recalculate=&owner=&region= `.
+   - Описывается в `test_plan.md`
 3. Написать тест-кейсы.
-   Они находятся в дирректории 'test_cases/'
+   - Находятся в дирректории `test_cases/`
 
 
 ## Как использовать
